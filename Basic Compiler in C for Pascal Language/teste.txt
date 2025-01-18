@@ -1,0 +1,17 @@
+program example;
+
+var x,y, z : integer;
+var message : chart;
+
+begin
+  readln(x);
+  readln(y);
+  z /= x + y;
+  iff z > y then
+    write(z)
+  elsee
+    writeln(message);
+  
+  whilee z < 100 do
+    z := z * 2
+end.
