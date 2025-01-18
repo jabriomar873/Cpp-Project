@@ -1,0 +1,1 @@
+E-Cars is a C-based car rental app that lets customers view available cars, rent and return them, apply special offers, and choose additional services like oil changes. To run the app, compile it with a  compiler, then execute the program and follow the on-screen menu options. Developed by Omar Jabri, E-Cars offers a simple interface for managing car rentals efficiently.
